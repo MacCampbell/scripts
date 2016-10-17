@@ -18,6 +18,10 @@ This script automates VelvetOptimiser.pl to work through a list of taxa and a ra
 Associated Paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4458374/ used an earlier version of the script.
 This script removes the variable sites from an alignment and generates variable sites for 1st, 2nd, and 3rd codon positions.
 
+## genomeSplitter.pl
+Associated Paper: In prep
+Reads in large sequences and splits them up inter smaller sequences, e.g. chromosomes into 10000bp bits. 
+
 ## locateSeqs.pl
 Associated Paper: In prep
 This script uses blastn to locate sequences of interest from a fasta formatted file onto reference sequences. In my case, that is the rainbow trout genome. Criteria such as evalue, alignment length and percent identity can be modified.

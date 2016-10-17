@@ -28,6 +28,11 @@ Associated Paper: In prep
 
 Reads in large sequences and splits them up inter smaller sequences, e.g. chromosomes into 10000bp bits. 
 
+## haplotyperOmy05.pl
+Associated Paper: In prep
+
+Compares diagnostic SNP sites to called genotypes to identify observed haplotypes. Designed for identifying inversion types in steelhead.
+
 ## locateSeqs.pl
 Associated Paper: In prep
 
